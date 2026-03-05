@@ -24,7 +24,7 @@ body {
 /* Banner untuk Landing Page (Home) */
 .banner {
     height: 80vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('..banner1.jpeg');
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('banner1.jpeg'); /* Hapus .. di sini */
     background-size: cover;
     background-position: center;
     display: flex;
@@ -35,7 +35,7 @@ body {
 /* Banner khusus Halaman Produk */
 .produk-banner {
     height: 50vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('..banner1.jpeg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('banner.jpg'); /* Ganti jadi banner.jpg jika filenya beda */
     background-size: cover;
     background-position: center;
     display: flex;
